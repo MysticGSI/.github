@@ -13,4 +13,8 @@
 </h1>
 <p>
   OEM GSIs Project
+  <br> <br>
+  <img alt="SourceForge Downloads" src="https://img.shields.io/sourceforge/dd/mystic-gsi-updates?style=flat">
+  <img alt="SourceForge Downloads" src="https://img.shields.io/sourceforge/dw/mystic-gsi-updates?style=flat">
+  <img alt="SourceForge Downloads" src="https://img.shields.io/sourceforge/dm/mystic-gsi-updates?style=flat">
 </p>
